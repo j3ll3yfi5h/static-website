@@ -1,0 +1,19 @@
+html {
+	min-height: 100vh;
+}
+
+.red {
+	background-color: lightcoral;
+}
+
+.green {
+	background-color: lightgreen;
+}
+
+.blue {
+	background-color: lightblue;
+}
+
+.is-active>a {
+	font-weight: bold;
+}
